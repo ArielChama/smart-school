@@ -10,13 +10,13 @@
 
 > CREATE USER smart_school_user@'%' IDENTIFIED BY 'BEh3pY9q3C6pZPA';
 
-> GRANT ALL TO e_commerce.* TO e_commerce_user@'%';
+> GRANT ALL TO smart_school.* TO smart_school_user@'%';
 
 ### Instalando dependências e configurando
 
-> git clone https://github.com/ArielChama/e-commerce
+> git clone https://github.com/ArielChama/smart-school
 
-> cd e-commerce
+> cd smart-school
 
 <p align="justify"> Instalando dependências do php: </p>
 
